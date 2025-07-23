@@ -1,0 +1,25 @@
+{
+  "name": "story-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d storybook-static"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinnesh-hub/story-book.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dinnesh-hub/story-book/issues"
+  },
+  "homepage": "https://github.com/dinnesh-hub/story-book#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
