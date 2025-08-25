@@ -1,0 +1,1 @@
+.rating{display:flex;align-items:center;gap:4px;cursor:pointer}.rating.read-only{cursor:default}.star-wrapper{position:relative;line-height:1}.star{position:relative;display:inline-block}.star-empty{color:#e0e0e0}.star-fill{position:absolute;top:0;left:0;overflow:hidden;white-space:nowrap;color:#ffb400}
